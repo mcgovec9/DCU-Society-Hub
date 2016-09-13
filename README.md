@@ -1,5 +1,5 @@
 # DCU-Society-Hub
-Third Year Project
+Third Year Project (2.1 Grade Received)
 
 The system is a web based application that allows DCU’s various clubs and societies to have a central hub wherein committee members can
 have all aspects of their club/society in the one place. From this web application they can: 
